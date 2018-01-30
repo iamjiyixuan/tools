@@ -6,6 +6,7 @@
 
 ## 2. CLI
 - [Homebrew](https://brew.sh)
+- [curl](https://curl.haxx.se)
 
 ## 3. COUNT LINES OF CODE
 - [cloc](https://github.com/AlDanial/cloc)
